@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: pt.com.cocus
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: maven
+features: [annotation-api, app-name, assertj, http-client, junit, kotlin, kotlin-application, log4j2, maven, mockito, netty-server, openapi, properties, reactor, reactor-http-client, readme, serialization-jackson, shade, swagger-ui]
